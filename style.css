@@ -4,7 +4,7 @@ body {
     background-color: aliceblue;
 }
 
-.number {
+#number {
     text-align: center;
     font-family: sans-serif;
 }
